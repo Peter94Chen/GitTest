@@ -28,5 +28,10 @@ namespace GitTest
             MessageBox.Show("GitTest");
             MessageBox.Show("GitTest1");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("GitTest3");
+        }
     }
 }
